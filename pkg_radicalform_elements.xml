@@ -21,8 +21,8 @@
     </languages>
 
     <files>
-        <folder type="plugin" group="system" >libraries/lib_fields.zip</folder>
-        <folder type="plugin" group="system" id="radicaluniversalfield">plugins/fields/radicaluniversalfield</folder>
+        <folder type="plugin" group="system" id="radicalform">plg_system_radicalform.zip</folder>
+        <folder type="plugin" group="system" id="radicalform_elements">plg_system_radicalform_elements.zip</folder>
     </files>
 
 </extension>
