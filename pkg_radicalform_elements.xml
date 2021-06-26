@@ -21,7 +21,7 @@
     </languages>
 
     <files>
-        <folder type="plugin" group="system" id="radicalform">plg_system_radicalform.zip</folder>
+        <folder type="plugin" group="system" id="radicalform">plg_radicalform.zip</folder>
         <folder type="plugin" group="system" id="radicalform_elements">plg_system_radicalform_elements.zip</folder>
     </files>
 
