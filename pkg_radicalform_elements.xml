@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.9" type="package" method="upgrade">
+    <name>PKG_RFE</name>
+    <packagename>radicaluniversalfield</packagename>
+    <creationDate>19.06.2021</creationDate>
+    <author>Progreccor</author>
+    <authorEmail>boss@delo-design.ru</authorEmail>
+    <authorUrl>https://delo-design.ru</authorUrl>
+    <copyright>Copyright © 2021 Delo Design. All rights reserved.</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <version>1.0.0</version>
+    <description>PKG_RFE_DESCRIPTION</description>
+
+    <updateservers>
+        <server type="extension" priority="1" name="RadicalForm Elements package">https://hika.su/update/free/pkg_radicalform_elements.xml</server>
+    </updateservers>
+
+    <languages folder="language">
+        <language tag="en-GB">en-GB/en-GB.pkg_radicalform_elements.sys.ini</language>
+        <language tag="ru-RU">ru-RU/ru-RU.pkg_radicalform_elements.sys.ini</language>
+    </languages>
+
+    <files>
+        <folder type="plugin" group="system" >libraries/lib_fields.zip</folder>
+        <folder type="plugin" group="system" id="radicaluniversalfield">plugins/fields/radicaluniversalfield</folder>
+    </files>
+
+</extension>
