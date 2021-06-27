@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="3.9" type="package" method="upgrade">
-    <name>PKG_RFE</name>
+    <name>PKG_RFE_FORM</name>
     <packagename>radicalform_elements</packagename>
     <creationDate>26.06.2021</creationDate>
     <author>Progreccor</author>
